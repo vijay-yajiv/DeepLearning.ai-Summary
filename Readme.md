@@ -12,7 +12,7 @@ This repository contains my personal notes and summaries on [DeepLearning.ai](ht
 
 This is by far the best course series on deep learning that I've taken. Enjoy!
 
-Vijay Notes
+## Vijay Notes
 1. Great Summary of All Courses Online - http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
 2. Great Visualisation of DeepLearning.ai (CS230 course on Coursera) -  https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?from_action=save
 A pdf is also present in on the 0.Misc folder here
