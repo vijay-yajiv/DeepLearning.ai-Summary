@@ -19,13 +19,6 @@ A pdf is also present in on the 0.Misc folder here
 3. 
 
 
-## Specialization Certificate
-
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
-
-![](Certificate.png)
-
-
 
 ## Similar Notes
 
@@ -63,16 +56,6 @@ Group description:
 
 Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
-## Acknowledgements
 
-Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96), and other contributors for helping me revising and fixing mistakes in the notes.
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-Mahmoud Badry @ 2018
+Originally written by Mahmoud Badry @ 2018
